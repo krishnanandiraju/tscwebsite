@@ -1721,3 +1721,10 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.box{
+box-shadow: -1px 0px 7px 0px rgba(235, 232, 235, 1);
+background-color: #fff;
+padding: 15px;
+border-radius: 10px;
+}
