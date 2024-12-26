@@ -54,10 +54,11 @@ function createFooter() {
             <img src="assets/img/logo-new.png" alt="">
           </a>
           <div class="footer-contact pt-3">
-            <p>253/3RT, Vijay Nagar Colony </p>
-            <p>Hyderabad 500057</p>
-            <p class="mt-3"><strong>Phone:</strong> <span>+91 1234567892</span></p>
-            <p><strong>Email:</strong> <span>info@example.co1 m</span></p>
+          <p><strong>Office: </strong></p>
+            <p>253/3RT, Vijay Nagar Colony, </p>
+            <p>Hyderabad - 500057</p>
+            <p class="mt-3"><strong>Phone:</strong> <span>+91 9154865635</span></p>
+            <p><strong>Email:</strong> <span>aashwij@hyderabadhydras.in</span></p>
           </div>
         
         </div>
