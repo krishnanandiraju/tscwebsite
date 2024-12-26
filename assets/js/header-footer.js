@@ -1,7 +1,7 @@
 // Function to create the header
 function createHeader() {
-    const header = document.getElementById('header');
-    header.innerHTML = `
+  const header = document.getElementById('header');
+  header.innerHTML = `
 
    
          <header id="header" class="header fixed-top">
@@ -27,8 +27,7 @@ function createHeader() {
             </li>
             <li><a href="team.html">Team </a></li>
             <li><a href="brand-partners.html">Brand Partners</a></li>
-            <li><a href="testimonials.html">Testimonials</a></li>
-
+           
             <li><a href="contact.html">Contact</a></li>
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
@@ -44,8 +43,8 @@ function createHeader() {
 
 // Function to create the footer
 function createFooter() {
-    const footer = document.getElementById('footer');
-    footer.innerHTML = `
+  const footer = document.getElementById('footer');
+  footer.innerHTML = `
          <footer id="footer" class="footer">
 
     <div class="container footer-top">
@@ -70,8 +69,7 @@ function createFooter() {
             <li><a href="about-us.html">About us</a></li>
             <li><a href="team.html">Team</a></li>
             <li><a href="brand-partners.html">Brand Partners</a></li>
-            <li><a href="testimonials.html">Testimonials</a></li>
-            <li><a href="contact.html">Contact</a></li>
+             <li><a href="contact.html">Contact</a></li>
           </ul>
         </div>
 
